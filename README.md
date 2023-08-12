@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Ravishankar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5TMy.gif">
+<img align="right" alt="Coding" width="250" src="https://phoneky.co.uk/thumbs/screensavers/down/original/walkingman_qoyxo21o.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekr-2019&label=Profile%20views&color=0e75b6&style=flat" alt="vivekr-2019" /> </p>
@@ -26,6 +27,7 @@
 - ⚡ Fun fact **Open-Source Contributor, Freelancer, Animator & on Fiverr.**
 
 
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
