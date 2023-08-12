@@ -27,7 +27,7 @@
 - ⚡ Fun fact **Open-Source Contributor, Freelancer, Animator & on Fiverr.**
 
 
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
