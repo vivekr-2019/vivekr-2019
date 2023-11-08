@@ -1,5 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHfb_ofKEMpPg/profile-displaybackgroundimage-shrink_350_1400/0/1685545304447?e=1697068800&v=beta&t=nYclWcE9j_CaQh4aVnZDy9xERSxPA6K3gCOmMTPJ3W4
-)](https://vivekr.tech/)
+[![MasterHead](https://drive.google.com/drive/u/0/folders/1d38DUM43FnhYPvq5uA2vHSHdeOi1yFoh)](https://vivekr.tech/)
 
 <h1 align="center">Hi 👋, I'm Vivek Ravishankar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
