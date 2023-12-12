@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekr-2019&label=Profile%20views&color=0e75b6&style=flat" alt="vivekr-2019" /> </p>
 
-- 🔭 I’m currently working on **Inter and intranet based IOT project.**
+- 🔭 I’m currently working on **DATA SCIENCE**
 
-- 🌱 I’m currently learning **Internet Of Things**
+- 🌱 I’m currently learning **DATA SCIENCE AND ADVANCED ANALYTICS**
 
-- 🤝 I’m looking for help with **Arduino programming**
+- 🤝 I’m looking for help with **Deep learning, Analytics, BI**
 
 - 👨‍💻 All of my projects are available at [vivekr.tech](vivekr.tech)
 
