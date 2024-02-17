@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning **DATA SCIENCE AND ADVANCED ANALYTICS**
 
 - 🤝 I’m looking for help with **Deep learning, Analytics, BI**
+  
+- 💞️ I love exploring and trying out new ideas through technology! 
 
 - 👨‍💻 All of my projects are available at [vivekr.tech](vivekr.tech)
 
